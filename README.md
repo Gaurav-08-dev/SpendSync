@@ -1,8 +1,8 @@
 
 ## 📦 Technologies
-  ### 🛢 Backend
-    - `Nest.JS`
-    - `Docker`
-    - `Postgres`
+### 🛢 Backend
+  - `Nest.JS`
+  - `Docker`
+  - `Postgres`
 
 
